@@ -23,7 +23,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "week 1/1.0.0": {
+      "Labo01/1.0.0": {
         "dependencies": {
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -311,10 +311,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "week 1.dll": {}
+          "Labo01.dll": {}
         },
         "compile": {
-          "week 1.dll": {}
+          "Labo01.dll": {}
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
@@ -2077,7 +2077,7 @@
     }
   },
   "libraries": {
-    "week 1/1.0.0": {
+    "Labo01/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

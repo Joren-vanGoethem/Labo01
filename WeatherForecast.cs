@@ -1,6 +1,6 @@
 using System;
 
-namespace week_1
+namespace Labo01
 {
     public class WeatherForecast
     {

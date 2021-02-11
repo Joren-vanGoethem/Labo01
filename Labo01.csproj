@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>week_1</RootNamespace>
+    <RootNamespace>Labo01</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
